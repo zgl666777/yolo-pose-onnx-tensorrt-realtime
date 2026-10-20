@@ -1,0 +1,24 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+build/
+build-gpu/
+models/*
+!models/.gitkeep
+data/*
+!data/.gitkeep
+runs/*
+!runs/.gitkeep
+*.engine
+*.pt
+*.onnx
+*.joblib
+
+# Local TLS/private material
+auto.key
+auto.crt
+*.tar.gz
+*.zip
+

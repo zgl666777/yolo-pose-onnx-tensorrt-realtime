@@ -1,0 +1,8 @@
+# Export verification stack; install alongside requirements-tested.txt.
+torch==2.5.1
+torchvision==0.20.1
+ultralytics==8.3.40
+pandas==2.2.3
+matplotlib==3.9.3
+pillow==11.0.0
+

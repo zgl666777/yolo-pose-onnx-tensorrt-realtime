@@ -1,0 +1,3 @@
+# Windows: install TensorRT from the downloaded SDK wheel before using this file.
+tensorrt==10.8.0.43
+cuda-python==12.6.2.post1
